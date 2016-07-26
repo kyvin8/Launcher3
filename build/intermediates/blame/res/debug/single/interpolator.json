@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\interpolator\\decelerate_quart.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\interpolator\\decelerate_quart.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\interpolator\\decelerate_quint.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\interpolator\\decelerate_quint.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\interpolator\\decelerate_quint.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\interpolator\\decelerate_quint.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\interpolator\\decelerate_quart.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\interpolator\\decelerate_quart.xml"
+    }
+]

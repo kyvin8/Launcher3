@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="E:\setup\Android\workspace\Launcher3\build\intermediates\exploded-aar\Launcher3\WallpaperPicker\unspecified\assets"/></dataSet><dataSet config="main"><source path="E:\setup\Android\workspace\Launcher3\assets"/><source path="E:\setup\Android\workspace\Launcher3\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\setup\Android\workspace\Launcher3\src\debug\assets"/></dataSet></merger>

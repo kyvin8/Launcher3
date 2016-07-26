@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout-land\\launcher.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout-land\\launcher.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout-land\\qsb.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout-land\\qsb.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout-land\\migration_cling.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout-land\\migration_cling.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout-land\\migration_cling.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout-land\\migration_cling.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout-land\\launcher.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout-land\\launcher.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout-land\\qsb.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout-land\\qsb.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout-land\\longpress_cling.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout-land\\longpress_cling.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout-land\\longpress_cling.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout-land\\longpress_cling.xml"
+    }
+]

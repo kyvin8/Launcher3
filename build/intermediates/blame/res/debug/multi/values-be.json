@@ -1,0 +1,278 @@
+[
+    {
+        "outputFile": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\values-be\\values-be.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 84,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "E:\\setup\\Android\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 9822,
+                        "endColumn": 92,
+                        "endOffset": 9910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 85,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "E:\\setup\\Android\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 10004,
+                        "endColumn": 93,
+                        "endOffset": 10093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 79,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "E:\\setup\\Android\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 9733,
+                        "endColumn": 87,
+                        "endOffset": 9816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 78,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "E:\\setup\\Android\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 9916,
+                        "endColumn": 86,
+                        "endOffset": 9998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 84,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "E:\\setup\\Android\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 8405,
+                        "endColumn": 92,
+                        "endOffset": 8493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 80,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "E:\\setup\\Android\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 8499,
+                        "endColumn": 88,
+                        "endOffset": 8583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 60,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "E:\\setup\\Android\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 68,
+                        "endOffset": 1129
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\values-be\\values-be.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 84,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "C:\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 9822,
+                        "endColumn": 92,
+                        "endOffset": 9910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 85,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 10004,
+                        "endColumn": 93,
+                        "endOffset": 10093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 79,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 9733,
+                        "endColumn": 87,
+                        "endOffset": 9816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 78,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "C:\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 9916,
+                        "endColumn": 86,
+                        "endOffset": 9998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 84,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 8405,
+                        "endColumn": 92,
+                        "endOffset": 8493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 80,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "C:\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 8499,
+                        "endColumn": 88,
+                        "endOffset": 8583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 60,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\workspace\\Launcher3\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 68,
+                        "endOffset": 1129
+                    }
+                }
+            }
+        ]
+    }
+]

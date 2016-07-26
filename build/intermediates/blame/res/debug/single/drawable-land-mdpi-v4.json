@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\ic_home_voice_search_holo.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable-land-mdpi\\ic_home_voice_search_holo.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\ic_home_voice_search_holo.png",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable-land-mdpi\\ic_home_voice_search_holo.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\workspace_bg.9.png",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable-land-mdpi\\workspace_bg.9.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\workspace_bg.9.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable-land-mdpi\\workspace_bg.9.png"
+    }
+]

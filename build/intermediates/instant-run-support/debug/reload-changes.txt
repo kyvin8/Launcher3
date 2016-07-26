@@ -1,0 +1,5 @@
+CHANGED,E:\setup\Android\workspace\Launcher3\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\launcher3\LauncherProvider$SqlArguments$override.class
+CHANGED,E:\setup\Android\workspace\Launcher3\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\setup\Android\workspace\Launcher3\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\launcher3\LauncherProvider$DatabaseHelper$override.class
+CHANGED,E:\setup\Android\workspace\Launcher3\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\launcher3\LauncherProvider$override.class
+CHANGED,E:\setup\Android\workspace\Launcher3\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\launcher3\LauncherProvider$SimpleWorkspaceLoader$override.class

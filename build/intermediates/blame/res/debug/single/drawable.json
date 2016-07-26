@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper_button.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\wallpaper_button.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_widget_indicator_selector.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\tab_widget_indicator_selector.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\all_apps_button_icon.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\all_apps_button_icon.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\uninstall_target_selector.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\uninstall_target_selector.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\uninstall_target_selector.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\uninstall_target_selector.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper_button.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\wallpaper_button.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_migration_cling.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\bg_migration_cling.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\info_target_selector.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\info_target_selector.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\remove_target_selector.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\remove_target_selector.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_button.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\widget_button.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_button.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\setting_button.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_button.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\widget_button.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_migration_cling.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\bg_migration_cling.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper_tile_fg.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\drawable\\wallpaper_tile_fg.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\info_target_selector.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\info_target_selector.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_button.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\setting_button.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\remove_target_selector.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\remove_target_selector.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_widget_indicator_selector.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\tab_widget_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\all_apps_button_icon.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\all_apps_button_icon.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\focusable_view_bg.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable\\focusable_view_bg.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\focusable_view_bg.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable\\focusable_view_bg.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper_tile_fg.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\drawable\\wallpaper_tile_fg.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_application.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\mipmap-mdpi\\ic_launcher_application.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_home.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\mipmap-mdpi\\ic_launcher_home.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_home.png",
+        "source": "C:\\workspace\\Launcher3\\res\\mipmap-mdpi\\ic_launcher_home.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_application.png",
+        "source": "C:\\workspace\\Launcher3\\res\\mipmap-mdpi\\ic_launcher_application.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_wallpaper.png",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\mipmap-mdpi-v4\\ic_launcher_wallpaper.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_wallpaper.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\mipmap-mdpi-v4\\ic_launcher_wallpaper.png"
+    }
+]

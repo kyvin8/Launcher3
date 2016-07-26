@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13\\sms.png",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable-sw720dp-mdpi\\sms.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13\\workspace_bg.9.png",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable-sw720dp-mdpi\\workspace_bg.9.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13\\workspace_bg.9.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable-sw720dp-mdpi\\workspace_bg.9.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi-v13\\sms.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable-sw720dp-mdpi\\sms.png"
+    }
+]

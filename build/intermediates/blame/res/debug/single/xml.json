@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x6_no_all_apps.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\xml\\default_workspace_5x6_no_all_apps.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_4x4.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\xml\\default_workspace_4x4.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_4x4.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\xml\\default_workspace_4x4.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x6_no_all_apps.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\xml\\default_workspace_5x6_no_all_apps.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x5.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\xml\\default_workspace_5x5.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x5.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\xml\\default_workspace_5x5.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\update_workspace.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\xml\\update_workspace.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_4x4_no_all_apps.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\xml\\default_workspace_4x4_no_all_apps.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x5_no_all_apps.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\xml\\default_workspace_5x5_no_all_apps.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_4x4_no_all_apps.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\xml\\default_workspace_4x4_no_all_apps.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\update_workspace.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\xml\\update_workspace.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x6.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\xml\\default_workspace_5x6.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x5_no_all_apps.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\xml\\default_workspace_5x5_no_all_apps.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_5x6.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\xml\\default_workspace_5x6.xml"
+    }
+]

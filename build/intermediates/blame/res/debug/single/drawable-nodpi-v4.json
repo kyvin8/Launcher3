@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_migration.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\drawable-nodpi\\ic_migration.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_migration.png",
+        "source": "C:\\workspace\\Launcher3\\res\\drawable-nodpi\\ic_migration.png"
+    }
+]

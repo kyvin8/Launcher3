@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_shadow_bottom.9.png",
+        "source": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_shadow_bottom.9.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_picker_pressed.9.png",
+        "source": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_picker_pressed.9.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_picker_selected.9.png",
+        "source": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_picker_selected.9.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_images.png",
+        "source": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_images.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_shadow_top.9.png",
+        "source": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_shadow_top.9.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_actionbar_accept.png",
+        "source": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_actionbar_accept.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_shadow_bottom.9.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_shadow_bottom.9.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_picker_focused.9.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_picker_focused.9.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_actionbar_accept.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_actionbar_accept.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_shadow_top.9.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_shadow_top.9.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_images.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_images.png"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_picker_focused.9.png",
+        "source": "C:\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_picker_focused.9.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_picker_selected.9.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_picker_selected.9.png"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\tile_picker_pressed.9.png",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\WallpaperPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\tile_picker_pressed.9.png"
+    }
+]

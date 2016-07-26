@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\anim\\no_anim.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\anim\\no_anim.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\anim\\task_open_enter.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\anim\\task_open_enter.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\anim\\no_anim.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\anim\\no_anim.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_fast.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\anim\\fade_in_fast.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\anim\\task_open_enter.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\anim\\task_open_enter.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_fast.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\anim\\fade_out_fast.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_fast.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\anim\\fade_out_fast.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_fast.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\anim\\fade_in_fast.xml"
+    }
+]

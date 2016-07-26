@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\menu\\cab_delete_wallpapers.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\menu\\cab_delete_wallpapers.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\menu\\cab_delete_wallpapers.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\menu\\cab_delete_wallpapers.xml"
+    }
+]

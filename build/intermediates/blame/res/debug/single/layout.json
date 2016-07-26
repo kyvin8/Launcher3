@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\rename_folder.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\rename_folder.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\longpress_cling_content.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\longpress_cling_content.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_image_picker_item.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker_image_picker_item.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\add_list_item.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\add_list_item.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_error.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\appwidget_error.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_live_wallpaper_item.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker_live_wallpaper_item.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_widget.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\apps_customize_widget.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\overview_panel.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\overview_panel.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_progressbar.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\apps_customize_progressbar.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\longpress_cling_welcome_content.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\longpress_cling_welcome_content.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_not_ready.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\appwidget_not_ready.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\folder_application.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\folder_application.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_image_picker_item.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker_image_picker_item.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_item.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker_item.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\market_button.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\market_button.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\folder_application.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\folder_application.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_live_wallpaper_item.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker_live_wallpaper_item.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\folder_icon.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\folder_icon.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\longpress_cling_welcome_content.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\longpress_cling_welcome_content.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\page_indicator_marker.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\page_indicator_marker.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_pane.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\apps_customize_pane.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\user_folder.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\user_folder.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_item.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker_item.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_error.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\appwidget_error.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_application.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\apps_customize_application.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_progressbar.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\apps_customize_progressbar.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\add_list_item.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\add_list_item.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\tab_widget_indicator.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\tab_widget_indicator.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\rename_folder.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\rename_folder.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\longpress_cling_content.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\longpress_cling_content.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\drop_target_bar.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\drop_target_bar.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\hotseat.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\hotseat.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\application.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\application.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\user_folder.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\user_folder.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\folder_icon.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\folder_icon.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\all_apps_button.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\all_apps_button.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\page_indicator.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\page_indicator.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_not_ready.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\appwidget_not_ready.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_third_party_item.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker_third_party_item.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\search_drop_target_bar.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\search_drop_target_bar.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\all_apps_button.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\all_apps_button.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\page_indicator.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\page_indicator.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\search_drop_target_bar.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\search_drop_target_bar.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_cropper.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_cropper.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_set_wallpaper.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\actionbar_set_wallpaper.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\workspace_screen.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\workspace_screen.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\hotseat.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\hotseat.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\application.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\application.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\page_indicator_marker.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\page_indicator_marker.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\drop_target_bar.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\drop_target_bar.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\tab_widget_indicator.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\tab_widget_indicator.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\workspace_screen.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\workspace_screen.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_application.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\apps_customize_application.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_cropper.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_cropper.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_third_party_item.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\wallpaper_picker_third_party_item.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_widget.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\apps_customize_widget.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_pane.xml",
+        "source": "C:\\workspace\\Launcher3\\res\\layout\\apps_customize_pane.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\overview_panel.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\overview_panel.xml"
+    },
+    {
+        "merged": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_set_wallpaper.xml",
+        "source": "C:\\workspace\\Launcher3\\build\\intermediates\\exploded-aar\\Launcher3\\WallpaperPicker\\unspecified\\res\\layout\\actionbar_set_wallpaper.xml"
+    },
+    {
+        "merged": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\layout\\market_button.xml",
+        "source": "E:\\setup\\Android\\workspace\\Launcher3\\res\\layout\\market_button.xml"
+    }
+]

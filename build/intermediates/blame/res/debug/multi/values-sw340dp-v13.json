@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "E:\\setup\\Android\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "E:\\setup\\Android\\workspace\\Launcher3\\res\\values-sw340dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 55,
+                        "endOffset": 819
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\workspace\\Launcher3\\build\\intermediates\\res\\merged\\debug\\values-sw340dp-v13\\values-sw340dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\workspace\\Launcher3\\res\\values-sw340dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 55,
+                        "endOffset": 819
+                    }
+                }
+            }
+        ]
+    }
+]
